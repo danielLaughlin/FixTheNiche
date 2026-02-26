@@ -1,5 +1,5 @@
 ### Fitness function for Niches
-setwd("~/Dropbox/Data/Fix the Niche/TREE revision")
+
 library(ggplot2)
 
 niche <- function(a, b, d){
