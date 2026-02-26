@@ -1,5 +1,5 @@
 # conceptual figure 1
-setwd("/Users/danielclaughlin/Dropbox/Data/Fix the Niche/TREE revision")
+
 library(sn)
 
 pdf("FigI.pdf",width=12,height=8)
